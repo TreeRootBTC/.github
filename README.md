@@ -1,3 +1,5 @@
+![Treeroot Logo](https://github.com/TreeRootBTC/.github/blob/main/logo.png)
+
 # Treeroot
 
 Treeroot is a Bitcoin-native DeFi project that turns social energy into tradable value. We use the Taproot Asset Protocol to mint and track digital assets on Bitcoin, tightly integrated with X.com and powered by AI. In plain English: creators and communities can launch “social assets” tied to memes or tweet moments, and people can buy, sell, and collect them—coordinated right on X.com, settled with Bitcoin-level security.
